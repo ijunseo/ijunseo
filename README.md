@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ijunseo
 - 👀 I’m interested in Python for Data science (Pandas, Numpy...)
-- 🌱 I’m currently learning Competitive Programming (Python)
-- Trilingual : Korean (Naitive) , Japanese (Naitive - living in Japan for 4 year ~), English (can read)
+- 🌱 I’m currently learning Competitive Programming, ML (With Python)
+- Trilingual : Korean (Naitive) , Japanese (Expert ~ Naitive - living in Japan since 2021.01 ~), English (can read)
 - Now leanring English, Python for ML
-- BS Major 2021 - 2025 : Biochemical engineering (research : Polymer chemistry) at OCU
+- BS Major 2021 - 2025 : Biochemical engineering (research : Polymer chemistry) at OCU (Current)
 - MS Major 2025 - 2027 : Soft computing (research : Fuzzy clustering) at OMU
 
  Baekjoon Online Judge
