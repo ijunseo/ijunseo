@@ -6,6 +6,8 @@
 - BS Major 2021 - 2025 : Biochemical engineering (research : Polymer chemistry) at OCU <mark style='background-color: #f5f0ff'>  (**Current**)</mark>
 - MS Major 2025 - 2027 : Soft computing (research : Fuzzy clustering) at OMU
 
+- Blog-Japan : [勉強日記](https://junseo1234551.hatenablog.com/)
+
  Baekjoon Online Judge
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wer3350)](https://solved.ac/wer3350)
