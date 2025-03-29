@@ -8,7 +8,9 @@
 
 - Blog-Japan : [勉強日記](https://junseo1234551.hatenablog.com/)
 
- Baekjoon Online Judge
+- Baekjoon Online Judge : [Link](https://solved.ac/profile/wer3350)
+
+ 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wer3350)](https://solved.ac/wer3350)
 
