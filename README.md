@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ijunseo
 - 👀 I’m interested in Python for Data science
 - 🌱 I’m currently learning Data structures and Algorithms(BOJ, Atcoder...) and DL (Pytorch...)
-- Trilingual : Korean (Naitive) , Japanese (Expert ~ Naitive - living in Japan since 2021.01 ~), English (can read)
+- Trilingual : Korean (Naitive) , Japanese (Expert ~ Naitive - living in Japan since 2021.01 ~), English (Toeic 790)
 - Now leanring English, Python for ML
 - BS Major 2021 - 2025 : Biochemical engineering (research : Polymer chemistry) at OCU
 - MS Major 2025 - 2027 : Soft computing (research : Fuzzy clustering) at OMU <mark style='background-color: #f5f0ff'>  (**Current**)</mark>
