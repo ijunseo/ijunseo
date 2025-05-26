@@ -8,7 +8,9 @@
 
 - Atcoder : [uronjun](https://atcoder.jp/users/uronjun)
 
-- Blog-Japan : [勉強日記](https://junseo1234551.hatenablog.com/)
+- Hatena Blog : [勉強日記](https://junseo1234551.hatenablog.com/)
+
+- Qiita : [技術ブログ](https://qiita.com/ijunseo/items/95ae2b2dc99f5bc8a3cc)
 
 - Baekjoon Online Judge 
 
