@@ -12,13 +12,8 @@
 
 - Qiita : [技術ブログ](https://qiita.com/ijunseo/items/95ae2b2dc99f5bc8a3cc)
 
-- Baekjoon Online Judge 
+- Kaggle : [junseo-lee]([https://atcoder.jp/users/uronjun](https://www.kaggle.com/junnseolee))
 
- 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wer3350)](https://solved.ac/wer3350)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wer3350&theme=cold)
 <!---
 ijunseo/ijunseo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
