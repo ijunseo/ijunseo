@@ -12,7 +12,7 @@
 
 - Qiita : [技術ブログ](https://qiita.com/ijunseo/items/95ae2b2dc99f5bc8a3cc)
 
-- Kaggle : [junseo-lee]([https://atcoder.jp/users/uronjun](https://www.kaggle.com/junnseolee))
+- Kaggle : [junseo-lee](https://www.kaggle.com/junnseolee)
 
 <!---
 ijunseo/ijunseo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
